@@ -1,2 +1,2 @@
-# EYE-CARE-WEBSITE
+# EYE CARE WEBSITE
 eyes care a demo pages
