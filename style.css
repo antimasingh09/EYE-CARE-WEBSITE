@@ -122,6 +122,7 @@ a{
 }
 .image-box img{
     height: 350px;
+    width:100%;
 }
 h1{
     font-size: 45px;
@@ -374,9 +375,6 @@ form button{
     font-weight: bolder;
 }
 @media(max-width:768px){
-   /* .header{
-        max-width: 767px;
-   } */
     .header1{
         height: auto;
         padding: 15px 60px;
@@ -432,12 +430,6 @@ form button{
         height: 280px;
         padding: 10px;
     }
-    /* .service{
-        max-width: 767px;
-    }
-    .contact{
-        max-width: 767px;
-    } */
     .box1 h4{
         font-size: 20px;
     }
